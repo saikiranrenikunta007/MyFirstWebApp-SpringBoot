@@ -1,0 +1,12 @@
+insert into todo(id,username,deadline,description,done)
+values(1001,'saikiran',CURRENT_DATE,'Get Aws Certified',false);
+insert into todo(id,username,deadline,description,done)
+values(1002,'saikiran',CURRENT_DATE,'Get Devops Certified',false);
+insert into todo(id,username,deadline,description,done)
+values(1003,'saikiran',CURRENT_DATE,'Get DataStructures Certified',false);
+insert into todo(id,username,deadline,description,done)
+values(1004,'saikiran',CURRENT_DATE,'Get SpringBoot Certified',false);
+insert into todo(id,username,deadline,description,done)
+values(1005,'saikiran',CURRENT_DATE,'Get Azure Certified',false);
+insert into todo(id,username,deadline,description,done)
+values(1006,'ashok',CURRENT_DATE,'Get SystemDesign Certified',false);
